@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+/venv/
+/data/
+/.dockerignore
+/dockerfile
+/ukf-c
